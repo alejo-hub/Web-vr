@@ -11,6 +11,6 @@ function redireccionar(id){
         window.location="./2.html";
         break;
         case 2: 
-        window.location="./1.html";
+        window.location="./";
     }
 }
